@@ -1,0 +1,10 @@
+# image files
+*.jpg
+
+# data
+*.csv
+*.bc
+*.blp
+
+# weights
+*.h5
